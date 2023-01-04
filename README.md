@@ -37,5 +37,5 @@
 <br>
 <h2 align="center"> :heavy_check_mark: Project development team" </h2>
 
-| <img src="/src/assets/profilePhoto.jpeg" width=115><br><sub>Zimarlen Silva</sub> | 
+| <img src="/src/assets/profilePhoto.jpeg" align="center" width=115><br><sub>Zimarlen Silva</sub> | 
 | :---: |
