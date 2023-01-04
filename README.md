@@ -5,7 +5,7 @@
 <br>
 
 <p>Imagem 1: Desktop</p>
-<p align="center"><img src="/src/assets/screenshot.png" width: 1000></p>
+<p align="center"><img src="/src/assets/image.png" width: 1000></p>
 <br>
 
 <br>
@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center"> :file_folder:View the project </h2>
-<p> You can access the final project by clicking here: https://lista-de-tarefas-react-aa4f.vercel.app/</p>
+<p> You can access the final project by clicking here:/</p>
 <br>
 <h2 align="center"> :computer: Technologies Used </h2>
 
